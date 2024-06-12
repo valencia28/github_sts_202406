@@ -10,6 +10,7 @@ public class GithugProjectApplication {
 		//tomcat server 실행
 		SpringApplication.run(GithugProjectApplication.class, args);
 		System.out.println("github 연동 프로젝트 실험");
+		System.out.println("sub1 branch - github 연동 프로젝트 실험");
 	}
 
 }
