@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# src/main/resources/application.properites
+
+src/main/java/db_jasypt/JasyptDB_JavaApplication.java
+src/main/java/db_jasypt/JasyptDBDE_JavaApplication.java
